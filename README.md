@@ -18,9 +18,9 @@ RESULTS ACHIEVED
                            Table 2: PCA DATA SET
 
                   METHODS	       TRAIN ACCURACY	      TEST ACCURACY
-                   SVM	              0.80	                 0.84 
-                    RF	              0.80	                 0.95
-                    LR	              0.80	                 0.92
+                   SVM	              0.80	                 0.72 
+                    RF	              0.80	                 0.64
+                    LR	              0.80	                 0.66
 
 
 CONCLUSION
