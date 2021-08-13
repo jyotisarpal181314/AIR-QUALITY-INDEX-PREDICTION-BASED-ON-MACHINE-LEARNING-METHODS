@@ -1,5 +1,5 @@
 # AIR-QUALITY-INDEX- PREDECTION-BASED-ON-MACHINE-LEARNING-METHODS
-In this project, we try to find the air quality index of nitrogen dioxide and sulfur dioxide by evaluating their concentration percentages by comparing several machine learning methods like SVM, Random Forest (RF), Logistic Regression (LR), and Linear Regression.
+In this project, we try to find the air quality index of nitrogen dioxide and sulfur dioxide by evaluating their concentration percentages and comparing several machine learning methods like SVM, Random Forest (RF), Logistic Regression (LR), and Linear Regression.
 
 LANGUAGES USED
 
